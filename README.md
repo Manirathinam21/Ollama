@@ -42,7 +42,9 @@ ollama webui repo:https://github.com/open-webui/open-webui
 
 ## Commands to run this application
 
-'''
+
+
+```
 conda create -p venv python=3.10 -y
 
 ```
@@ -52,10 +54,12 @@ source activate venv/
 
 ```
 
+
 ```
 pip install -r requirements.txt
 
 ```
+
 
 ```
 python app.py
