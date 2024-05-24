@@ -1,4 +1,4 @@
-## Ollama Commands & Links:
+## Ollama Commands to execute in command prompt to access opensource LLMs:
 
 ```
 ollama pull <model_name>
@@ -28,6 +28,7 @@ example
 ollama run AIRAJA
 
 ```
+## Ollama Links:
 
 ```
 offical repo of ollama: https://github.com/ollama/ollama
